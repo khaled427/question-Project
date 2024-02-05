@@ -1,4 +1,5 @@
 <template>
+  <p>update</p>
   <p style="position: absolute; left: 10px; top: 10px">
     {{ firstName }} {{ lastName }}
   </p>
